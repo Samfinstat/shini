@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+access.json
+passwords*
+*.key
+work/
+node_modules/
+.DS_Store
